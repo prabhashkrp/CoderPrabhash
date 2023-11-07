@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with *My upcoming projects*
 
-- 👨‍💻 All of my projects are available at [https://github.com/CodewithSaket?tab=repositories](https://github.com/prabhashkrp)
+- 👨‍💻 All of my projects are available at [https://github.com/prabhashkrptab=repositories](https://github.com/prabhashkrp)
 
 - 💬 Ask me about *Cyber-Security, Python*
 
